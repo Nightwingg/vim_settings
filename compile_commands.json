@@ -1,0 +1,5 @@
+{
+    "directory": "C:\\mingw\\tmp",
+    "command": "C:\\mingw\\bin\\g++.exe -std=c++11 C:\\mingw\\tmp.cpp",
+    "file": "C:\\mingw\\tmp.cpp"
+}

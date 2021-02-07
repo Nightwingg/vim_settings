@@ -11,5 +11,7 @@
 	"python.linting.pydocstyleEnabled":false,
 	"suggest.floatEnable": false,
 	"python.suggest.floatEnable": false,
-	"signature.enable":false
+  "signature.enable": false,
+	"clangd.compilationDatabasePath":"C:\\Users\\lzuni\\AppData\\Local\\nvim\\compile_commands.json",
+  "clangd.path": "C:\\Users\\lzuni\\AppData\\Local\\coc\\extensions\\coc-clangd-data\\install\\11.0.0\\clangd_11.0.0\\bin\\clangd.exe"
 }
